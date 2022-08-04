@@ -583,7 +583,8 @@ In the command below, replace each `X` with appropriate number for your USB devi
 
 ### Windows
 
-Newer releases can be written using [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).
+Newer releases can be written using [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
+or [SimpleDiskImager](https://github.com/AustinWise/SimpleDiskImager/releases).
 
 <i class="fa fa-info-circle fa-lg" aria-hidden="true"></i> **NOTE:**
 <div class="well">
